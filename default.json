@@ -1,0 +1,5 @@
+{
+  "UserName": "myUserName",
+  "Region": "us-east-2",
+  "MfaDeviceName": "mfa/MfaKeyName"
+}
